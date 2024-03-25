@@ -1,0 +1,5 @@
+@media screen and (max-width:709px) {
+    #services .box{
+        width: 80%;
+    }
+}
